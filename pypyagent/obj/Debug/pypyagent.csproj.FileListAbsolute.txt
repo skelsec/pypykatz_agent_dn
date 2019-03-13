@@ -1,0 +1,14 @@
+C:\Users\victim\source\repos\pypyagent\pypyagent\obj\Debug\pypyagent.csprojAssemblyReference.cache
+C:\Users\victim\source\repos\pypyagent\pypyagent\obj\Debug\pypyagent.csproj.CoreCompileInputs.cache
+C:\Users\victim\source\repos\pypyagent\pypyagent\bin\Debug\pypyagent.exe.config
+C:\Users\victim\source\repos\pypyagent\pypyagent\bin\Debug\pypyagent.exe
+C:\Users\victim\source\repos\pypyagent\pypyagent\bin\Debug\pypyagent.pdb
+C:\Users\victim\source\repos\pypyagent\pypyagent\obj\Debug\pypyagent.exe
+C:\Users\victim\source\repos\pypyagent\pypyagent\obj\Debug\pypyagent.pdb
+C:\Users\victim\Desktop\pypykatz_agent_dn\pypyagent\bin\Debug\pypyagent.exe.config
+C:\Users\victim\Desktop\pypykatz_agent_dn\pypyagent\bin\Debug\pypyagent.exe
+C:\Users\victim\Desktop\pypykatz_agent_dn\pypyagent\bin\Debug\pypyagent.pdb
+C:\Users\victim\Desktop\pypykatz_agent_dn\pypyagent\obj\Debug\pypyagent.csprojAssemblyReference.cache
+C:\Users\victim\Desktop\pypykatz_agent_dn\pypyagent\obj\Debug\pypyagent.csproj.CoreCompileInputs.cache
+C:\Users\victim\Desktop\pypykatz_agent_dn\pypyagent\obj\Debug\pypyagent.exe
+C:\Users\victim\Desktop\pypykatz_agent_dn\pypyagent\obj\Debug\pypyagent.pdb

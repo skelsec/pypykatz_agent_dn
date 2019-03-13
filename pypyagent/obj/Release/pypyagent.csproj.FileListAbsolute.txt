@@ -1,0 +1,7 @@
+C:\Users\victim\source\repos\pypyagent\pypyagent\bin\Release\pypyagent.exe.config
+C:\Users\victim\source\repos\pypyagent\pypyagent\bin\Release\pypyagent.exe
+C:\Users\victim\source\repos\pypyagent\pypyagent\bin\Release\pypyagent.pdb
+C:\Users\victim\source\repos\pypyagent\pypyagent\obj\Release\pypyagent.csprojAssemblyReference.cache
+C:\Users\victim\source\repos\pypyagent\pypyagent\obj\Release\pypyagent.csproj.CoreCompileInputs.cache
+C:\Users\victim\source\repos\pypyagent\pypyagent\obj\Release\pypyagent.exe
+C:\Users\victim\source\repos\pypyagent\pypyagent\obj\Release\pypyagent.pdb
