@@ -5,3 +5,10 @@ C:\Users\victim\source\repos\pypyagent\pypyagent\obj\Release\pypyagent.csprojAss
 C:\Users\victim\source\repos\pypyagent\pypyagent\obj\Release\pypyagent.csproj.CoreCompileInputs.cache
 C:\Users\victim\source\repos\pypyagent\pypyagent\obj\Release\pypyagent.exe
 C:\Users\victim\source\repos\pypyagent\pypyagent\obj\Release\pypyagent.pdb
+C:\Users\victim\Desktop\pypykatz_agent_dn\pypyagent\bin\Release\pypyagent.exe.config
+C:\Users\victim\Desktop\pypykatz_agent_dn\pypyagent\bin\Release\pypyagent.exe
+C:\Users\victim\Desktop\pypykatz_agent_dn\pypyagent\bin\Release\pypyagent.pdb
+C:\Users\victim\Desktop\pypykatz_agent_dn\pypyagent\obj\Release\pypyagent.csprojAssemblyReference.cache
+C:\Users\victim\Desktop\pypykatz_agent_dn\pypyagent\obj\Release\pypyagent.csproj.CoreCompileInputs.cache
+C:\Users\victim\Desktop\pypykatz_agent_dn\pypyagent\obj\Release\pypyagent.exe
+C:\Users\victim\Desktop\pypykatz_agent_dn\pypyagent\obj\Release\pypyagent.pdb

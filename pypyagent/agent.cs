@@ -1,6 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Text;
 
 namespace pypyagent
@@ -35,9 +33,24 @@ namespace pypyagent
             while (good)
             {
                 PYPYCMD cmd = transport.readCMD();
-                //Console.Write(cmd.ToString());
+                
                 if (cmd.cmdtype == PYPYCMDType.END)
+                {
+                    if(this.useConsole)
+                    {
+                        string result;
+                        if (cmd.parameters.Count > 0)
+                        {
+                            result = System.Text.Encoding.UTF8.GetString(cmd.parameters[0]);
+                        }
+                        else
+                            result = "Server did not provide result data, check server for results!";
+                        
+                        Console.Write(result);
+                    }
                     break;
+                }
+                    
 
                 switch (cmd.cmdtype)
                 {

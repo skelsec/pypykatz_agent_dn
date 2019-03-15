@@ -11,7 +11,7 @@ namespace pypyagent
         {
             bool useConsole = true;
             if (args.Length < 2){
-                Console.WriteLine("Usage: agent.exe <server_ip> <server_port>");
+                Console.WriteLine("Usage: agent.exe <server_ip> <server_port> <use_console (optional, 1 or 0 )>");
                 System.Environment.Exit(1);
             }
             string server_ip = args[0];
@@ -19,7 +19,11 @@ namespace pypyagent
 
             if(args.Length >= 3)
             {
-                useConsole = bool.Parse(args[2]);
+                int x = int.Parse(args[2]);
+                if (x == 1)
+                    useConsole = true;
+                else
+                    useConsole = false;
             }
 
             PYPYreader reader = new PYPYreader();
